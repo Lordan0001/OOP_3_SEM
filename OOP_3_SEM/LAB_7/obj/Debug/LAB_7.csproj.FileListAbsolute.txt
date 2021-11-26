@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\универ\БГТУ\2 Курс\ООП\2 курс\All Lab\LAB_7\bin\Debug\LAB_5.1.exe.config
+C:\Users\User\Desktop\универ\БГТУ\2 Курс\ООП\2 курс\All Lab\LAB_7\bin\Debug\LAB_5.1.exe
+C:\Users\User\Desktop\универ\БГТУ\2 Курс\ООП\2 курс\All Lab\LAB_7\bin\Debug\LAB_5.1.pdb
+C:\Users\User\Desktop\универ\БГТУ\2 Курс\ООП\2 курс\All Lab\LAB_7\obj\Debug\LAB_7.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\универ\БГТУ\2 Курс\ООП\2 курс\All Lab\LAB_7\obj\Debug\LAB_7.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\универ\БГТУ\2 Курс\ООП\2 курс\All Lab\LAB_7\obj\Debug\LAB_5.1.exe
+C:\Users\User\Desktop\универ\БГТУ\2 Курс\ООП\2 курс\All Lab\LAB_7\obj\Debug\LAB_5.1.pdb
