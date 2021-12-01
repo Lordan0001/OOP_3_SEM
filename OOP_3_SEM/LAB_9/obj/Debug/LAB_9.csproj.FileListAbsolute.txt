@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\универ\БГТУ\2 Курс\ООП\2 курс\All Lab\LAB_9\bin\Debug\LAB_9.exe.config
+C:\Users\User\Desktop\универ\БГТУ\2 Курс\ООП\2 курс\All Lab\LAB_9\bin\Debug\LAB_9.exe
+C:\Users\User\Desktop\универ\БГТУ\2 Курс\ООП\2 курс\All Lab\LAB_9\bin\Debug\LAB_9.pdb
+C:\Users\User\Desktop\универ\БГТУ\2 Курс\ООП\2 курс\All Lab\LAB_9\obj\Debug\LAB_9.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\универ\БГТУ\2 Курс\ООП\2 курс\All Lab\LAB_9\obj\Debug\LAB_9.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\универ\БГТУ\2 Курс\ООП\2 курс\All Lab\LAB_9\obj\Debug\LAB_9.exe
+C:\Users\User\Desktop\универ\БГТУ\2 Курс\ООП\2 курс\All Lab\LAB_9\obj\Debug\LAB_9.pdb
