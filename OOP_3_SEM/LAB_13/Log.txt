@@ -1,0 +1,391 @@
+Disk Name C:\
+Disk space 119481851904
+Disk free space 33754664960
+Volume label C:\
+
+Disk Name D:\
+Disk space 947772190720
+Disk free space 474927349760
+Volume label D:\
+
+
+Space 0
+Extension .txt
+Name Path.txt
+
+
+$Session - 11.12.2021 0:00:00$
+Disk Name C:\
+Disk space 119481851904
+Disk free space 33752002560
+Volume label C:\
+
+Disk Name D:\
+Disk space 947772190720
+Disk free space 474927349760
+Volume label D:\
+
+
+Space 0
+Extension .txt
+Name Path.txt
+
+
+$Session - 11.12.2021 0:00:00$
+Disk Name C:\
+Disk space 119481851904
+Disk free space 33751470080
+Volume label C:\
+
+Disk Name D:\
+Disk space 947772190720
+Disk free space 474927349760
+Volume label D:\
+
+
+Space 0
+Extension .txt
+Name Path.txt
+
+
+$Session - 11.12.2021 0:00:00$
+Disk Name C:\
+Disk space 119481851904
+Disk free space 33749426176
+Volume label C:\
+
+Disk Name D:\
+Disk space 947772190720
+Disk free space 474927349760
+Volume label D:\
+
+
+Space 0
+Extension .txt
+Name Path.txt
+
+
+$Session - 11.12.2021 0:00:00$
+Disk Name C:\
+Disk space 119481851904
+Disk free space 33734131712
+Volume label C:\
+
+Disk Name D:\
+Disk space 947772190720
+Disk free space 474927349760
+Volume label D:\
+
+
+Space 0
+Extension .txt
+Name Path.txt
+
+
+$Session - 11.12.2021 0:00:00$
+Disk Name C:\
+Disk space 119481851904
+Disk free space 33735147520
+Volume label C:\
+
+Disk Name D:\
+Disk space 947772190720
+Disk free space 474927349760
+Volume label D:\
+
+
+Space 0
+Extension .txt
+Name Path.txt
+
+
+$Session - 11.12.2021 0:00:00$
+Disk Name C:\
+Disk space 119481851904
+Disk free space 33711472640
+Volume label C:\
+
+Disk Name D:\
+Disk space 947772190720
+Disk free space 474927349760
+Volume label D:\
+
+
+Space 0
+Extension .txt
+Name Path.txt
+
+
+$Session - 11.12.2021 0:00:00$
+Disk Name C:\
+Disk space 119481851904
+Disk free space 33712386048
+Volume label C:\
+
+Disk Name D:\
+Disk space 947772190720
+Disk free space 474927349760
+Volume label D:\
+
+
+Space 0
+Extension .txt
+Name Path.txt
+
+
+$Session - 11.12.2021 0:00:00$
+Disk Name C:\
+Disk space 119481851904
+Disk free space 33716076544
+Volume label C:\
+
+Disk Name D:\
+Disk space 947772190720
+Disk free space 474927349760
+Volume label D:\
+
+
+Space 0
+Extension .txt
+Name Path.txt
+
+
+$Session - 11.12.2021 0:00:00$
+Disk Name C:\
+Disk space 119481851904
+Disk free space 33714524160
+Volume label C:\
+
+Disk Name D:\
+Disk space 947772190720
+Disk free space 474927349760
+Volume label D:\
+
+
+Space 0
+Extension .txt
+Name Path.txt
+
+
+$Session - 11.12.2021 0:00:00$
+Disk Name C:\
+Disk space 119481851904
+Disk free space 33715445760
+Volume label C:\
+
+Disk Name D:\
+Disk space 947772190720
+Disk free space 474927349760
+Volume label D:\
+
+
+Space 5
+Extension .txt
+Name Path.txt
+
+
+$Session - 11.12.2021 0:00:00$
+Disk Name C:\
+Disk space 119481851904
+Disk free space 33715081216
+Volume label C:\
+
+Disk Name D:\
+Disk space 947772190720
+Disk free space 474927349760
+Volume label D:\
+
+
+Space 5
+Extension .txt
+Name Path.txt
+
+
+$Session - 11.12.2021 0:00:00$
+Disk Name C:\
+Disk space 119481851904
+Disk free space 33714294784
+Volume label C:\
+
+Disk Name D:\
+Disk space 947772190720
+Disk free space 474927349760
+Volume label D:\
+
+
+Space 5
+Extension .txt
+Name Path.txt
+
+
+$Session - 11.12.2021 0:00:00$
+Disk Name C:\
+Disk space 119481851904
+Disk free space 33699831808
+Volume label C:\
+
+Disk Name D:\
+Disk space 947772190720
+Disk free space 474931560448
+Volume label D:\
+
+
+Space 5
+Extension .txt
+Name Path.txt
+
+
+$Session - 11.12.2021 0:00:00$
+Disk Name C:\
+Disk space 119481851904
+Disk free space 33698471936
+Volume label C:\
+
+Disk Name D:\
+Disk space 947772190720
+Disk free space 474931560448
+Volume label D:\
+
+
+Space 5
+Extension .txt
+Name Path.txt
+
+
+$Session - 11.12.2021 0:00:00$
+Disk Name C:\
+Disk space 119481851904
+Disk free space 33689419776
+Volume label C:\
+
+Disk Name D:\
+Disk space 947772190720
+Disk free space 474931560448
+Volume label D:\
+
+
+Space 5
+Extension .txt
+Name Path.txt
+
+
+$Session - 11.12.2021 0:00:00$
+Disk Name C:\
+Disk space 119481851904
+Disk free space 33689935872
+Volume label C:\
+
+Disk Name D:\
+Disk space 947772190720
+Disk free space 474931560448
+Volume label D:\
+
+
+Space 5
+Extension .txt
+Name Path.txt
+
+
+$Session - 11.12.2021 0:00:00$
+Disk Name C:\
+Disk space 119481851904
+Disk free space 33688711168
+Volume label C:\
+
+Disk Name D:\
+Disk space 947772190720
+Disk free space 474931560448
+Volume label D:\
+
+
+Space 5
+Extension .txt
+Name Path.txt
+
+
+$Session - 11.12.2021 0:00:00$
+Disk Name C:\
+Disk space 119481851904
+Disk free space 33685565440
+Volume label C:\
+
+Disk Name D:\
+Disk space 947772190720
+Disk free space 474931560448
+Volume label D:\
+
+
+Space 5
+Extension .txt
+Name Path.txt
+
+
+$Session - 11.12.2021 0:00:00$
+Disk Name C:\
+Disk space 119481851904
+Disk free space 33688481792
+Volume label C:\
+
+Disk Name D:\
+Disk space 947772190720
+Disk free space 474931560448
+Volume label D:\
+
+
+Space 5
+Extension .txt
+Name Path.txt
+
+
+$Session - 11.12.2021 0:00:00$
+Disk Name C:\
+Disk space 119481851904
+Disk free space 33684885504
+Volume label C:\
+
+Disk Name D:\
+Disk space 947772190720
+Disk free space 474931560448
+Volume label D:\
+
+
+Space 5
+Extension .txt
+Name Path.txt
+
+
+$Session - 11.12.2021 0:00:00$
+Disk Name C:\
+Disk space 119481851904
+Disk free space 33684271104
+Volume label C:\
+
+Disk Name D:\
+Disk space 947772190720
+Disk free space 474931560448
+Volume label D:\
+
+
+Space 5
+Extension .txt
+Name Path.txt
+
+
+$Session - 11.12.2021 0:00:00$
+Disk Name C:\
+Disk space 119481851904
+Disk free space 33602895872
+Volume label C:\
+
+Disk Name D:\
+Disk space 947772190720
+Disk free space 474931560448
+Volume label D:\
+
+
+Space 5
+Extension .txt
+Name Path.txt
+
+
+$Session - 11.12.2021 0:00:00$

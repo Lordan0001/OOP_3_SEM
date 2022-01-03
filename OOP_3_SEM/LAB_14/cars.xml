@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<ArrayOfCar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Car>
+    <MaxSpeed>125</MaxSpeed>
+    <id>ebx</id>
+  </Car>
+  <Car>
+    <MaxSpeed>115</MaxSpeed>
+    <id>eax</id>
+  </Car>
+  <Car>
+    <MaxSpeed>145</MaxSpeed>
+    <id>cce</id>
+  </Car>
+  <Car xsi:nil="true" />
+  <Car xsi:nil="true" />
+</ArrayOfCar>
